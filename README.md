@@ -24,13 +24,16 @@ This project is a 3D Radio that plays songs, built using JavaScript, HTML, and C
 
 To get a local copy up and running, follow these simple steps:
 
-1. **Clone the repository**:
+1. **Clone the repository:**
    ```sh
    git clone https://github.com/mohammadhashim135/3-D-Radio.git
+2. **Open the project folder:**
    ```sh
    cd 3-D-Radio
+3. **Open index.html in your browser:**
    ```sh
    open index.html
+
 ## Usage
 
 - Open the project in your preferred web browser.
@@ -41,11 +44,11 @@ To get a local copy up and running, follow these simple steps:
 
 Contributions are welcome! If you have any ideas or improvements, feel free to fork the repository and submit a pull request.
 
-1.Fork the Project
-2.Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3.Commit your Changes (git commit -m 'Add some AmazingFeature')
-4.Push to the Branch (git push origin feature/AmazingFeature)
-5.Open a Pull Request
+- Fork the Project
+- Create your Feature Branch (git checkout -b feature/AmazingFeature)
+- Commit your Changes (git commit -m 'Add some AmazingFeature')
+- Push to the Branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
 
 ## Author
 [![Mohammad Hashim](https://github.com/mohammadhashim135/Cpp_Railway_management_System/blob/ac8c08284bcc8baa7445a0e7a37472e46ef90afc/author/1.jpg)](https://youtube.com/@ByteMazeHashim?si=5vcrIglNQO8i9Ram)
